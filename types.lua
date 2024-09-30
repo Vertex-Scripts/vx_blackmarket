@@ -1,0 +1,5 @@
+---@class BlackmarketItem
+---@field name string
+---@field label string
+---@field icon string
+---@field price number
